@@ -7,21 +7,3 @@ this is some text.
 [this is some text](https://somelink.com)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 > blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
-> blockquote test
